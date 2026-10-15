@@ -1,0 +1,201 @@
+cadena,resultado_afd,justificacion_invalido,verificador_independiente
+GnC1_W4EakoKm5b_ROn@unam.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+ZWjRlLK6sNdVUD@ipn.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+Fo2_zH19dCqgn28s9DpO@empresa.info,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+TGZN9Z3zLIbet6_xzq@empresa.info,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+X.Z3eLO6m4H5x29iI.x@outlook.net,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+j5bla5kzFpfITtau@empresa.net,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+IC8qLkA$a@empresa.net,INVÁLIDO,Carácter no autorizado en usuario ('$'),INVÁLIDO
+G0XtzWbnXjg1@hotmail123.xyz,INVÁLIDO,La combinación dominio='hotmail123' con extensión='xyz' no está autorizada por la matriz,INVÁLIDO
+uM5Pp.87vtA3R6DiZc@hotmail.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+3g53@empresa.org,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+iBY@educacion.org,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+2xXI21ky@proton.io,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+D.X1K7wP94h@educacion.org,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+nDal6_.P@icloud.com,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('_.'),INVÁLIDO
+_uw@educacion.edu,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+hJBLIqmHg@gmail.gov,INVÁLIDO,La combinación dominio='gmail' con extensión='gov' no está autorizada por la matriz,INVÁLIDO
+2OJiL7@icloud.com,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+a0G19@gmail.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+bNpmSO6eZu@empresa.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+BpVGXLTh3dKQLpM1u@educacion.gov,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+mhouppeqTMd2L@icloud.io,INVÁLIDO,La combinación dominio='icloud' con extensión='io' no está autorizada por la matriz,INVÁLIDO
+X1CqxdYGso@gmail.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+E1HOrlweHROhbF8hCtZT@unam.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+rRzVT668Nyu0t_5aT0e_@yahoo.mx,INVÁLIDO,El usuario debe terminar con letra o dígito,INVÁLIDO
+UHrmcBNfYWunksXQHNfV@educacion.gov,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+sLKTrXy_@empresa.org,INVÁLIDO,El usuario debe terminar con letra o dígito,INVÁLIDO
+wvdwOsudoaViVMBIÁa@yahoo.com,INVÁLIDO,Carácter no autorizado en usuario ('Á'),INVÁLIDO
+4_gjWq@empresa.com,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+FpFT6Skil.XNHCvP3G.educacion.edu,INVÁLIDO,El correo debe contener exactamente un símbolo @,INVÁLIDO
+zOwz7CSS0WBt4q3IQ1@outlook.net,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+qsIDQspIL6ZZcQ0Rg@empresa.net,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+HA2TQhZwbIGqQ189RbeW a@proton.com,INVÁLIDO,"Longitud de usuario fuera de rango (22 caracteres, esperado 3-20)",INVÁLIDO
+ucA6JVkybmj@icloud.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+MvNk1rndr#a@ipn.mx,INVÁLIDO,Carácter no autorizado en usuario ('#'),INVÁLIDO
+o8RRSO9G_4PGe_ic9Uq@ipn.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+GZMBg0iM9l2@educacion.org,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+FORUxjwGXnBdD@yahoo_mx.org,INVÁLIDO,La combinación dominio='yahoo_mx' con extensión='org' no está autorizada por la matriz,INVÁLIDO
+iPUYyt__tsqheJMwrITi@ipn.edu,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('__'),INVÁLIDO
+8_6dMCG@unam.mx,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+jPsf8ahmTGQduylB@empresa.net,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+pC.nVu2U@ipn.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+TAN49lBzokTuol@hotmail.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+bsIKUYb96IT_ins.@proton.com,INVÁLIDO,El usuario debe terminar con letra o dígito,INVÁLIDO
+SPG9@empresa.net,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+wmJLekfi5nX69ctOi@gmail.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+kGcfV@outlook.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+UQtN8p@ipn.net,INVÁLIDO,La combinación dominio='ipn' con extensión='net' no está autorizada por la matriz,INVÁLIDO
+u1f_px4yo8W9c.8BXeH@ipn.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+HOI3dTvpV..Z@hotmail.com,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('..'),INVÁLIDO
+Zon1ZaFzgHvIVkq@yahoo.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+E@empresa.org,INVÁLIDO,"Longitud de usuario fuera de rango (1 caracteres, esperado 3-20)",INVÁLIDO
+PiJAaKfE@proton.net,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+kE.0gTDY7lFeb0Xl4wvp@yahoo.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+zJv7lcSjqF8tR@yahoo.info,INVÁLIDO,La combinación dominio='yahoo' con extensión='info' no está autorizada por la matriz,INVÁLIDO
+7l9@empresa.info,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+GTkcGEoWFMwNV@facebook.gov,INVÁLIDO,La combinación dominio='facebook' con extensión='gov' no está autorizada por la matriz,INVÁLIDO
+2mF8u9oiqaNs0Gc4M@proton.io,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+Cpg@proton.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+yJ44U%a@proton.io,INVÁLIDO,Carácter no autorizado en usuario ('%'),INVÁLIDO
+ELOvndABLZCPvmDy@yahoo.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+nMWHS5FwMezMv3Q@yahoo.info,INVÁLIDO,La combinación dominio='yahoo' con extensión='info' no está autorizada por la matriz,INVÁLIDO
+NNeZÁa@empresa.com,INVÁLIDO,Carácter no autorizado en usuario ('Á'),INVÁLIDO
+ACKSSXCb12XN@unam.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+LWTdnEBw_NY8u3yVdkm.@hotmail.com,INVÁLIDO,El usuario debe terminar con letra o dígito,INVÁLIDO
+Om1EPNamiRt60g@empresa.org,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+Z_vxplSEj@ipn.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+J2qlcR@ipn.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+C.d5E@unam.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+x@proton.com,INVÁLIDO,"Longitud de usuario fuera de rango (1 caracteres, esperado 3-20)",INVÁLIDO
+KHO22@empresa.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+Vx1GeG6L__0V@proton.net,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('__'),INVÁLIDO
+tHNoFazROpRZ27WnV3W@empresa.net,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+KWTbTXSG9bU0D@gmail.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+IgoQ3HXMGa..ABhjDwgU6g@empresa.net,INVÁLIDO,"Longitud de usuario fuera de rango (22 caracteres, esperado 3-20)",INVÁLIDO
+ooinjXer4dK0V4y7@gmail.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+rvYgi69@educacion.gov,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+CsaKmq3yI7tAPuLdnm@ipn.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+zjbUlJCyRGlMo0@educacion.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+DSrvtyGpXq@educacion.gov,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+mwU8irKgJ.unam.mx,INVÁLIDO,El correo debe contener exactamente un símbolo @,INVÁLIDO
+EeNtI6YnAN.@proton.net,INVÁLIDO,El usuario debe terminar con letra o dígito,INVÁLIDO
+sMqgiL3lzzbdu@hotmail.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+gG.H0QCfT.7_S@ipn.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+xzGSZkc37gf8j@empresa.net,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+TTpHpp@ipn.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+rB6bpe8Sl@unam.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+3MwN3K23J@ipn.mx,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+xB_qOEQlyIxk6wo@proton.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+D6fJLlfJ7RiX3O1f@g_mail.EDU,INVÁLIDO,La combinación dominio='g_mail' con extensión='EDU' no está autorizada por la matriz,INVÁLIDO
+pPOCHIa@proton.org,INVÁLIDO,La combinación dominio='proton' con extensión='org' no está autorizada por la matriz,INVÁLIDO
+r6jqIIYbwYl..VZaaih4@gmail.com,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('..'),INVÁLIDO
+L@gmail.com,INVÁLIDO,"Longitud de usuario fuera de rango (1 caracteres, esperado 3-20)",INVÁLIDO
+mt.m@proton.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+czeN95m1ZjnNZETkf@gmail.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+GEegNaAaat@yahoo.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+f3.gRSwFfkr14fltX@empresa.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+bR.MwvAiyz_dq_Rm1hÁa@unam.mx,INVÁLIDO,Carácter no autorizado en usuario ('Á'),INVÁLIDO
+5_7cZE@icloud.com,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+d2YDQmY.AsO7m@proton.net,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+zGkbOL8aTSiSjjUiknC8WQ@ipn.mx,INVÁLIDO,"Longitud de usuario fuera de rango (22 caracteres, esperado 3-20)",INVÁLIDO
+yhpI.educacion.org,INVÁLIDO,El correo debe contener exactamente un símbolo @,INVÁLIDO
+aMpOp7gnDDsRwXU3U@ipn.org,INVÁLIDO,La combinación dominio='ipn' con extensión='org' no está autorizada por la matriz,INVÁLIDO
+PrmS@@educacion.gov,INVÁLIDO,El correo debe contener exactamente un símbolo @,INVÁLIDO
+lmySZd@ipn.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+iBZYQAHo@yahoo.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+uPeizUpgg3y_9jU@empresa.info,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+PpvIo a@proton.com,INVÁLIDO,Carácter no autorizado en usuario (' '),INVÁLIDO
+vUe0cnPGBnXjfydj@yahoo.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+gTuaVpkr@educacion.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+hBKocrBZiDx@google.COM,INVÁLIDO,La combinación dominio='google' con extensión='COM' no está autorizada por la matriz,INVÁLIDO
+SWA_Y7_zc@proton.io,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+kKXPKtGr53I1.outlook.com,INVÁLIDO,El correo debe contener exactamente un símbolo @,INVÁLIDO
+5G4ZZfJ7lCDYgURcKK@unam.edu,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+ss@proton.net,INVÁLIDO,"Longitud de usuario fuera de rango (2 caracteres, esperado 3-20)",INVÁLIDO
+p6w_.b@icloud.com,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('_.'),INVÁLIDO
+AXa9RXG@educacion.gov,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+AMh.J.educacion.org,INVÁLIDO,El correo debe contener exactamente un símbolo @,INVÁLIDO
+K3vxe40QFU@empresa.info,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+WkaE6MX7iMqlEiRTYrqdCB@yahoo.mx,INVÁLIDO,"Longitud de usuario fuera de rango (22 caracteres, esperado 3-20)",INVÁLIDO
+rAvAo3845ukKlV1@hotmail.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+CY4rSwi_.eABve@yahoo.com,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('_.'),INVÁLIDO
+k7lCypw4@ipn.EDU,INVÁLIDO,La combinación dominio='ipn' con extensión='EDU' no está autorizada por la matriz,INVÁLIDO
+QqO@empresa.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+d_svRXPF@educacion.gov,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+FZBLPj#a@ipn.mx,INVÁLIDO,Carácter no autorizado en usuario ('#'),INVÁLIDO
+ajjLVK0e..3UKQV@gmail.mx,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('..'),INVÁLIDO
+hKoaoAEiV2fHW@gmail.net,INVÁLIDO,La combinación dominio='gmail' con extensión='net' no está autorizada por la matriz,INVÁLIDO
+MQ1i6@outlook.gov,INVÁLIDO,La combinación dominio='outlook' con extensión='gov' no está autorizada por la matriz,INVÁLIDO
+tWi..UnT_wFrW@outlook.com,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('..'),INVÁLIDO
+OviJ@empresa.org,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+PP@unam.edu,INVÁLIDO,"Longitud de usuario fuera de rango (2 caracteres, esperado 3-20)",INVÁLIDO
+BUlq8A9XAnbvfxXbKrzxMO@unam.mx,INVÁLIDO,"Longitud de usuario fuera de rango (22 caracteres, esperado 3-20)",INVÁLIDO
+e7kICd_r6.@ipn.edu,INVÁLIDO,El usuario debe terminar con letra o dígito,INVÁLIDO
+HZjbNIj3iDGf2O2DnIy0@educacion.gov,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+UZoh5SW4o.j.empresa.info,INVÁLIDO,El correo debe contener exactamente un símbolo @,INVÁLIDO
+zLjvsbxIRqQcuV5@empresa.org,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+Ii_y.GGZp_M6SO_vA@ipn.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+xLy0_d.GRyiYxq@proton.io,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+F5HzA%a@empresa.org,INVÁLIDO,Carácter no autorizado en usuario ('%'),INVÁLIDO
+ibjl4vrgn@icloud.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+uf80@educacion.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+SMT8ldoXwByrC@outlook.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+XpJBOppP_.A.O5m@unam.edu,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('_.'),INVÁLIDO
+eN7zrClvIV..r_EoCw5r@proton.net,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('..'),INVÁLIDO
+K1Jl@educacion.org,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+hMBzRlAmO@proton.io,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+sLjPWYv8jrUtdMsYV4.outlook.com,INVÁLIDO,El correo debe contener exactamente un símbolo @,INVÁLIDO
+lYREThw8jgUsYTV@educacion.gov,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+uSf@empresa.org,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+tt@outlook.com,INVÁLIDO,"Longitud de usuario fuera de rango (2 caracteres, esperado 3-20)",INVÁLIDO
+v5wvAIDgvtZRGN@gmail.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+oEIAaRaS@outlook.org,INVÁLIDO,La combinación dominio='outlook' con extensión='org' no está autorizada por la matriz,INVÁLIDO
+xPDQNEHK.rNSkOUyV@empresa.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+f7fy0ly4BbF5Us0aO.HW@hotmail123.mx,INVÁLIDO,La combinación dominio='hotmail123' con extensión='mx' no está autorizada por la matriz,INVÁLIDO
+X8ZosRExZ@ipn.gov,INVÁLIDO,La combinación dominio='ipn' con extensión='gov' no está autorizada por la matriz,INVÁLIDO
+U8yb#a@educacion.org,INVÁLIDO,Carácter no autorizado en usuario ('#'),INVÁLIDO
+k57Cq1JJPu.sC1O@gmail.edu,INVÁLIDO,La combinación dominio='gmail' con extensión='edu' no está autorizada por la matriz,INVÁLIDO
+sn_k@unam.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+kQnPtjz@empresa.org,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+CTt0cUlSyCud58c@empresa.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+CR.b8@unam.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+MW9XMI55E.Bp76T@ipn.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+iyXO1Wfx3F4.@proton.net,INVÁLIDO,El usuario debe terminar con letra o dígito,INVÁLIDO
+s.EyBy6KD2Xya@proton.io,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+JlpEBg@educacion.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+WW@empresa.info,INVÁLIDO,"Longitud de usuario fuera de rango (2 caracteres, esperado 3-20)",INVÁLIDO
+Pk6D19SlZ@yahoo.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+xSP2Po4t$a@educacion.mx,INVÁLIDO,Carácter no autorizado en usuario ('$'),INVÁLIDO
+yy@yahoo.mx,INVÁLIDO,"Longitud de usuario fuera de rango (2 caracteres, esperado 3-20)",INVÁLIDO
+n152Y29jW9zj2ImJ7Áa@gmail.com,INVÁLIDO,Carácter no autorizado en usuario ('Á'),INVÁLIDO
+K7LWurMTbfG5oNd.Z.@yahoo.mx,INVÁLIDO,El usuario debe terminar con letra o dígito,INVÁLIDO
+weMB.4GMbtSvmK@protonmail.io,INVÁLIDO,La combinación dominio='protonmail' con extensión='io' no está autorizada por la matriz,INVÁLIDO
+uBSofL8g50lE9Rfq@empresa.mx,INVÁLIDO,La combinación dominio='empresa' con extensión='mx' no está autorizada por la matriz,INVÁLIDO
+yxKxo5Y@empresa.org,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+G.tRHqHPqrvRdGDPk420@gmail.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+nl4tkZyRXm3l@outlook.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+hhEPxK95Uz_.eeTfx_066@unam.mx,INVÁLIDO,"Longitud de usuario fuera de rango (21 caracteres, esperado 3-20)",INVÁLIDO
+fejbmfrzreAh3VI.3.fiña@proton.com,INVÁLIDO,"Longitud de usuario fuera de rango (22 caracteres, esperado 3-20)",INVÁLIDO
+0_1weISFziZomHNzy4YZ@gmail.com,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+1gWX5@ipn.mx,INVÁLIDO,El usuario debe comenzar obligatoriamente con una letra,INVÁLIDO
+PPv@educacion.gov,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+JqQc.R_@gmail.mx,INVÁLIDO,El usuario debe terminar con letra o dígito,INVÁLIDO
+C1iq2TrGlzmpIT@empresa.info,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+cAvRFr8g@unam.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+LrQnegvL_@empresa.com,INVÁLIDO,El usuario debe terminar con letra o dígito,INVÁLIDO
+h__JFpDO8U@educacion.mx,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('__'),INVÁLIDO
+pQ5YpPygRUspnko0_SrJ@empresa.org,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+gP0D@yahoo.mx,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+hjxmoYHKSSGiQ_dH@hotmail.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+NCV@educacion.gov,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+ONi._na_biHE@educacion.edu,INVÁLIDO,Secuencia de caracteres especiales consecutivos no permitida ('._'),INVÁLIDO
+bKicSDReinXu@yahoo.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+PLZJtazNeW@ipn.edu,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+xqM86b@icloud.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+vWshhomc4PCf.8a@empresa.info,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+VZYr2dxJpflm8aNjqqNhAum@proton.io,INVÁLIDO,"Longitud de usuario fuera de rango (23 caracteres, esperado 3-20)",INVÁLIDO
+zpBwIWT1_KUm6JB@proton.io,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+hf.07qS@icloud.com,VÁLIDO,Cumple con todas las restricciones,VÁLIDO
+RfheFeBLVICQtN.ipn.edu,INVÁLIDO,El correo debe contener exactamente un símbolo @,INVÁLIDO
+U@proton.net,INVÁLIDO,"Longitud de usuario fuera de rango (1 caracteres, esperado 3-20)",INVÁLIDO
